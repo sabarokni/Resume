@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+### Hi there 👋, my name is Saba Rokni
+#### Web Developer & Full-stack developer
+![Web Developer & Full-stack developer](https://image.shutterstock.com/image-vector/web-development-banner-icon-business-260nw-1812243436.jpg)
 
-You can use the [editor on GitHub](https://github.com/rokn0001/Resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a Hardworking and reliable Full-stack developer with strong ability in PHP, HTML, CSS, Python, C#, Laravel, MySQL, Adobe Photoshop and Illustrator, GIT, and various IDEs. Highly organized, proactive and punctual with a team-oriented mentality.
+<h5>QUALIFICATION HIGHLIGHTS</h5><li>Exceptional communication Skills-Verbal and Written.</li><li>Analytical, flexible and adaptable.</li><li>Strong commitment to team environment dynamics.</li><li> Ability to manage complex problems and time-constrained tasks.</li><li> Highly developed organizational, time management and multitasking
+abilities.</li><li>Extremely like Technology and proficient with various web technologies.</li><li>Languages: Persian, English , French( beginner )</li><br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Skills: <h5>Programming Languages :</h5>  HTML, CSS, GitHub, PHP, Python, JavaScript, C#, Asp.Net, jQuery, XML, Ajax, JSON, React, Web Service, Laravel, Livewire </br><h5> Database systems : </h5>Database design, administration, MySQL, PostgreSQL, SQLite, SSMS, PhpMyAdmin Software </br><h5> Operating System : </h5>MySQL Workbench, Visual Studio, Atom, PyCharm, VMware Workstation, VNC viewer, PuTTY, FileZilla, Windows 10, Linux, Apache, Ubuntu, Xdebug, Apache NetBeans, Ampps, WebGoat </br><h5> Adobe and Microsoft Office: </h5>Photoshop, Illustrator, Word, Excel, PowerPoint
 
-### Markdown
+- 🔭 I’m currently working on upgrading my knowledge with new methods in Web Developing. 
+- 🌱 I’m currently learning Php / WordPress / React/ SQL 
+- 👯 I’m looking to collaborate on web  developer and software developer 
+- 📫 How to reach me: sabarokny@yahoo.com 
+- ⚡ Fun fact: Dancing / Painting / Walking /Cooking / Positive Fact / Camping/ Watching movies/ Crafting /New Technologies 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rokn0001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/saba-rokni-31207587//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saba.rokni.5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/saba_rokni/)  
 
-# Header 1
-## Header 2
-### Header 3
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-- Bulleted
-- List
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rokn0001)](https://github.com/anuraghazra/github-readme-stats)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rokn0001/Resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![Profile views](https://gpvc.arturio.dev/rokn0001)  
